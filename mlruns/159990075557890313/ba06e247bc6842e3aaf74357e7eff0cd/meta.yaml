@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/159990075557890313/ba06e247bc6842e3aaf74357e7eff0cd/artifacts
+end_time: 1723275543980
+entry_point_name: ''
+experiment_id: '159990075557890313'
+lifecycle_stage: active
+run_id: ba06e247bc6842e3aaf74357e7eff0cd
+run_name: classy-lynx-557
+run_uuid: ba06e247bc6842e3aaf74357e7eff0cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723275541459
+status: 3
+tags: []
+user_id: sundarakrishnang

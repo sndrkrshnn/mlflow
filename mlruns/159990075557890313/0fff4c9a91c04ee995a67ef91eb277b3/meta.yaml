@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/159990075557890313/0fff4c9a91c04ee995a67ef91eb277b3/artifacts
+deleted_time: 1723275564587
+end_time: 1723275481913
+entry_point_name: ''
+experiment_id: '159990075557890313'
+lifecycle_stage: deleted
+run_id: 0fff4c9a91c04ee995a67ef91eb277b3
+run_name: capricious-koi-83
+run_uuid: 0fff4c9a91c04ee995a67ef91eb277b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723275481888
+status: 4
+tags: []
+user_id: sundarakrishnang

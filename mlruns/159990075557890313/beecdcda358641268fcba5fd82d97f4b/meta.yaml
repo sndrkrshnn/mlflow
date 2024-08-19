@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/159990075557890313/beecdcda358641268fcba5fd82d97f4b/artifacts
+deleted_time: 1723275564592
+end_time: 1723275450197
+entry_point_name: ''
+experiment_id: '159990075557890313'
+lifecycle_stage: deleted
+run_id: beecdcda358641268fcba5fd82d97f4b
+run_name: thoughtful-skunk-245
+run_uuid: beecdcda358641268fcba5fd82d97f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723275450182
+status: 4
+tags: []
+user_id: sundarakrishnang

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/396231644867254072/e0e81c3de10245a2af78b3a5c0340889/artifacts
+end_time: 1723531804802
+entry_point_name: ''
+experiment_id: '396231644867254072'
+lifecycle_stage: active
+run_id: e0e81c3de10245a2af78b3a5c0340889
+run_name: legendary-ant-236
+run_uuid: e0e81c3de10245a2af78b3a5c0340889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723531803079
+status: 4
+tags: []
+user_id: sundarakrishnang

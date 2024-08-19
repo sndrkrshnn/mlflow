@@ -1,0 +1,1 @@
+CategoricalDistribution(choices=('linear', 'rbf', 'poly', 'sigmoid'))

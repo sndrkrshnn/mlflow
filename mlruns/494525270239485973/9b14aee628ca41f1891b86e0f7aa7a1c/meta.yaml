@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/494525270239485973/9b14aee628ca41f1891b86e0f7aa7a1c/artifacts
+end_time: 1723531825686
+entry_point_name: ''
+experiment_id: '494525270239485973'
+lifecycle_stage: active
+run_id: 9b14aee628ca41f1891b86e0f7aa7a1c
+run_name: charming-gnu-425
+run_uuid: 9b14aee628ca41f1891b86e0f7aa7a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723531822772
+status: 3
+tags: []
+user_id: sundarakrishnang

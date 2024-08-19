@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/201753772706321689/45d923d4546846188e16ceffe3a70132/artifacts
+end_time: 1723303980234
+entry_point_name: ''
+experiment_id: '201753772706321689'
+lifecycle_stage: active
+run_id: 45d923d4546846188e16ceffe3a70132
+run_name: omniscient-flea-741
+run_uuid: 45d923d4546846188e16ceffe3a70132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723303977025
+status: 3
+tags: []
+user_id: sundarakrishnang

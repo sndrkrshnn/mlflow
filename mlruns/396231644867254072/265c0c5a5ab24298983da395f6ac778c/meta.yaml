@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sundarakrishnang/Desktop/Projects/Work/MLFlow/mlruns/396231644867254072/265c0c5a5ab24298983da395f6ac778c/artifacts
+end_time: 1723531802372
+entry_point_name: ''
+experiment_id: '396231644867254072'
+lifecycle_stage: active
+run_id: 265c0c5a5ab24298983da395f6ac778c
+run_name: '13'
+run_uuid: 265c0c5a5ab24298983da395f6ac778c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723531802363
+status: 3
+tags: []
+user_id: sundarakrishnang
